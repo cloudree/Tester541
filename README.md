@@ -46,10 +46,10 @@ A5  --------- 19/~E2
 VCC --------- 19/VCC
 
 
-It checks only
+It checks only that
 
- if Dx = Low then Yx = Low
+ if Dx (inputs) are Low then Yx (outputs) must be Low,
 
- if Dx = High then Yx = Low
+ if Dx (inputs) are High then Yx (outputs) must be Low,
 
 when E1=Low, E2=Low
